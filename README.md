@@ -143,4 +143,4 @@ corr = df.corr() sns.heatmap(corr,annot=True)
 ```
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Hence performing Exploratory Data Analysis on the given data set is successful
